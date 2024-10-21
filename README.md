@@ -174,7 +174,7 @@ pip3 install --user j2cli
 To clone the code repository recursively:
 
 ```shell
-git clone --recurse-submodules https://github.com/sonic-net/sonic-buildimage.git
+git clone --recurse-submodules https://github.com/Egor-Ozhmegoff/ozh-sonic-buildimage.git
 ```
 
 ## Usage
